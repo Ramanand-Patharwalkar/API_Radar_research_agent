@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+data/research_results.json
+data/verification_results.json
+data/verification_sample.json
+
+.DS_Store
